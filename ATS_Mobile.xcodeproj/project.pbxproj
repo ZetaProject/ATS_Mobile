@@ -37,20 +37,20 @@
 		5785674814BEA77B0053B89E /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		5785674A14BEA77B0053B89E /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5785674C14BEA77B0053B89E /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		5785675014BEA77B0053B89E /* ATS_Mobile-Info.plist */ = {isa = PBXFileReference; path = "ATS_Mobile-Info.plist"; sourceTree = "<group>"; };
+		5785675014BEA77B0053B89E /* ATS_Mobile-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ATS_Mobile-Info.plist"; sourceTree = "<group>"; };
 		5785675214BEA77B0053B89E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5785675414BEA77B0053B89E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		5785675614BEA77B0053B89E /* ATS_Mobile-Prefix.pch */ = {isa = PBXFileReference; path = "ATS_Mobile-Prefix.pch"; sourceTree = "<group>"; };
-		5785675714BEA77B0053B89E /* ATSAppDelegate.h */ = {isa = PBXFileReference; path = ATSAppDelegate.h; sourceTree = "<group>"; };
+		5785675614BEA77B0053B89E /* ATS_Mobile-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ATS_Mobile-Prefix.pch"; sourceTree = "<group>"; };
+		5785675714BEA77B0053B89E /* ATSAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ATSAppDelegate.h; sourceTree = "<group>"; };
 		5785675814BEA77B0053B89E /* ATSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ATSAppDelegate.m; sourceTree = "<group>"; };
 		5785675B14BEA77B0053B89E /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		5785675D14BEA77B0053B89E /* ATSViewController.h */ = {isa = PBXFileReference; path = ATSViewController.h; sourceTree = "<group>"; };
+		5785675D14BEA77B0053B89E /* ATSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ATSViewController.h; sourceTree = "<group>"; };
 		5785675E14BEA77B0053B89E /* ATSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ATSViewController.m; sourceTree = "<group>"; };
 		5785676514BEA77B0053B89E /* ATS_MobileTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ATS_MobileTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5785676614BEA77B0053B89E /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		5785676E14BEA77B0053B89E /* ATS_MobileTests-Info.plist */ = {isa = PBXFileReference; path = "ATS_MobileTests-Info.plist"; sourceTree = "<group>"; };
+		5785676E14BEA77B0053B89E /* ATS_MobileTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ATS_MobileTests-Info.plist"; sourceTree = "<group>"; };
 		5785677014BEA77B0053B89E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		5785677214BEA77B0053B89E /* ATS_MobileTests.h */ = {isa = PBXFileReference; path = ATS_MobileTests.h; sourceTree = "<group>"; };
+		5785677214BEA77B0053B89E /* ATS_MobileTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ATS_MobileTests.h; sourceTree = "<group>"; };
 		5785677314BEA77B0053B89E /* ATS_MobileTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ATS_MobileTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
